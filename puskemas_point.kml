@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Puskemas_point" id="Puskemas_point">
+	<SimpleField name="No" type="float"></SimpleField>
+	<SimpleField name="Puskesmas" type="string"></SimpleField>
+	<SimpleField name="x" type="float"></SimpleField>
+	<SimpleField name="y" type="float"></SimpleField>
+</Schema>
+<Folder><name>Puskemas_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">1</SimpleData>
+		<SimpleData name="Puskesmas">Sukarasa</SimpleData>
+		<SimpleData name="x">107.582459999999998</SimpleData>
+		<SimpleData name="y">-6.868120000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.58246,-6.86812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">2</SimpleData>
+		<SimpleData name="Puskesmas">Karangsetra</SimpleData>
+		<SimpleData name="x">107.591110000000000</SimpleData>
+		<SimpleData name="y">-6.877700000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59111,-6.8777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">3</SimpleData>
+		<SimpleData name="Puskesmas">Sarijadi</SimpleData>
+		<SimpleData name="x">107.577430000000007</SimpleData>
+		<SimpleData name="y">-6.875530000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.57743,-6.87553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">4</SimpleData>
+		<SimpleData name="Puskesmas">Sukajadi</SimpleData>
+		<SimpleData name="x">107.594520000000003</SimpleData>
+		<SimpleData name="y">-6.892200000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59452,-6.8922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">5</SimpleData>
+		<SimpleData name="Puskesmas">Sukawarna</SimpleData>
+		<SimpleData name="x">107.579269999999994</SimpleData>
+		<SimpleData name="y">-6.885810000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.57927,-6.88581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">6</SimpleData>
+		<SimpleData name="Puskesmas">Jajaway</SimpleData>
+		<SimpleData name="x">107.664529999999999</SimpleData>
+		<SimpleData name="y">-6.927680000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.66453,-6.92768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">7</SimpleData>
+		<SimpleData name="Puskesmas">Antapani</SimpleData>
+		<SimpleData name="x">107.663550000000001</SimpleData>
+		<SimpleData name="y">-6.913410000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.66355,-6.91341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">8</SimpleData>
+		<SimpleData name="Puskesmas">Sindangjaya</SimpleData>
+		<SimpleData name="x">107.680350000000004</SimpleData>
+		<SimpleData name="y">-6.903260000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.68035,-6.90326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">9</SimpleData>
+		<SimpleData name="Puskesmas">Pamulang</SimpleData>
+		<SimpleData name="x">107.665580000000006</SimpleData>
+		<SimpleData name="y">-6.903550000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.66558,-6.90355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">10</SimpleData>
+		<SimpleData name="Puskesmas">Girimande</SimpleData>
+		<SimpleData name="x">107.672610000000006</SimpleData>
+		<SimpleData name="y">-6.893330000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.67261,-6.89333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">11</SimpleData>
+		<SimpleData name="Puskesmas">Jatihandap</SimpleData>
+		<SimpleData name="x">107.657759999999996</SimpleData>
+		<SimpleData name="y">-6.901670000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.65776,-6.90167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">12</SimpleData>
+		<SimpleData name="Puskesmas">Mandalamekar</SimpleData>
+		<SimpleData name="x">107.665729999999996</SimpleData>
+		<SimpleData name="y">-6.891340000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.66573,-6.89134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">13</SimpleData>
+		<SimpleData name="Puskesmas">Arcamanik</SimpleData>
+		<SimpleData name="x">107.678569999999993</SimpleData>
+		<SimpleData name="y">-6.914610000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.67857,-6.91461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">14</SimpleData>
+		<SimpleData name="Puskesmas">Rusunawa</SimpleData>
+		<SimpleData name="x">107.676580000000001</SimpleData>
+		<SimpleData name="y">-6.927950000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.67658,-6.92795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">15</SimpleData>
+		<SimpleData name="Puskesmas">Ujungberung Indah</SimpleData>
+		<SimpleData name="x">107.698970000000003</SimpleData>
+		<SimpleData name="y">-6.911430000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.69897,-6.91143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">16</SimpleData>
+		<SimpleData name="Puskesmas">Pasirjati</SimpleData>
+		<SimpleData name="x">107.708969999999994</SimpleData>
+		<SimpleData name="y">-6.909300000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.70897,-6.9093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">17</SimpleData>
+		<SimpleData name="Puskesmas">Cinambo</SimpleData>
+		<SimpleData name="x">107.691770000000005</SimpleData>
+		<SimpleData name="y">-6.940540000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.69177,-6.94054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">18</SimpleData>
+		<SimpleData name="Puskesmas">Cibiru</SimpleData>
+		<SimpleData name="x">107.719610000000003</SimpleData>
+		<SimpleData name="y">-6.930690000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.71961,-6.93069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">19</SimpleData>
+		<SimpleData name="Puskesmas">Cilengkrang</SimpleData>
+		<SimpleData name="x">107.719329999999999</SimpleData>
+		<SimpleData name="y">-6.913910000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.71933,-6.91391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">20</SimpleData>
+		<SimpleData name="Puskesmas">Cipadung</SimpleData>
+		<SimpleData name="x">107.723529999999997</SimpleData>
+		<SimpleData name="y">-6.915720000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.72353,-6.91572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">21</SimpleData>
+		<SimpleData name="Puskesmas">Panghegar</SimpleData>
+		<SimpleData name="x">107.699269999999999</SimpleData>
+		<SimpleData name="y">-6.927160000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.69927,-6.92716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">22</SimpleData>
+		<SimpleData name="Puskesmas">Panyileukan</SimpleData>
+		<SimpleData name="x">107.714470000000006</SimpleData>
+		<SimpleData name="y">-6.939490000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.71447,-6.93949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">23</SimpleData>
+		<SimpleData name="Puskesmas">Riung Bandung</SimpleData>
+		<SimpleData name="x">107.683520000000001</SimpleData>
+		<SimpleData name="y">-6.948380000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.68352,-6.94838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">24</SimpleData>
+		<SimpleData name="Puskesmas">Cempaka Arum</SimpleData>
+		<SimpleData name="x">107.706840000000000</SimpleData>
+		<SimpleData name="y">-6.958380000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.70684,-6.95838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">25</SimpleData>
+		<SimpleData name="Puskesmas">Cipamokolan</SimpleData>
+		<SimpleData name="x">107.676419999999993</SimpleData>
+		<SimpleData name="y">-6.947030000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.67642,-6.94703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">26</SimpleData>
+		<SimpleData name="Puskesmas">Derwati</SimpleData>
+		<SimpleData name="x">107.682829999999996</SimpleData>
+		<SimpleData name="y">-6.964890000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.68283,-6.96489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">27</SimpleData>
+		<SimpleData name="Puskesmas">Margahayu Raya</SimpleData>
+		<SimpleData name="x">107.662480000000002</SimpleData>
+		<SimpleData name="y">-6.955480000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.66248,-6.95548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">28</SimpleData>
+		<SimpleData name="Puskesmas">Sekejati</SimpleData>
+		<SimpleData name="x">107.661929999999998</SimpleData>
+		<SimpleData name="y">-6.946950000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.66193,-6.94695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">29</SimpleData>
+		<SimpleData name="Puskesmas">Kujangsari</SimpleData>
+		<SimpleData name="x">107.637889999999999</SimpleData>
+		<SimpleData name="y">-6.964860000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.63789,-6.96486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">30</SimpleData>
+		<SimpleData name="Puskesmas">Mengger</SimpleData>
+		<SimpleData name="x">107.622600000000006</SimpleData>
+		<SimpleData name="y">-6.956420000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.6226,-6.95642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">31</SimpleData>
+		<SimpleData name="Puskesmas">Pasawahan</SimpleData>
+		<SimpleData name="x">107.611220000000003</SimpleData>
+		<SimpleData name="y">-6.960870000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.61122,-6.96087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">32</SimpleData>
+		<SimpleData name="Puskesmas">Ledeng</SimpleData>
+		<SimpleData name="x">107.594679999999997</SimpleData>
+		<SimpleData name="y">-6.858150000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59468,-6.85815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">33</SimpleData>
+		<SimpleData name="Puskesmas">Sukagalih</SimpleData>
+		<SimpleData name="x">107.589460000000003</SimpleData>
+		<SimpleData name="y">-6.890660000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.58946,-6.89066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">34</SimpleData>
+		<SimpleData name="Puskesmas">Pasirkaliki</SimpleData>
+		<SimpleData name="x">107.597690000000000</SimpleData>
+		<SimpleData name="y">-6.900560000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59769,-6.90056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">35</SimpleData>
+		<SimpleData name="Puskesmas">Sukaraja</SimpleData>
+		<SimpleData name="x">107.568370000000002</SimpleData>
+		<SimpleData name="y">-6.892630000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.56837,-6.89263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">36</SimpleData>
+		<SimpleData name="Puskesmas">Garuda</SimpleData>
+		<SimpleData name="x">107.577399999999997</SimpleData>
+		<SimpleData name="y">-6.911300000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.5774,-6.9113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">37</SimpleData>
+		<SimpleData name="Puskesmas">Babatan</SimpleData>
+		<SimpleData name="x">107.601249999999993</SimpleData>
+		<SimpleData name="y">-6.918570000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.60125,-6.91857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">38</SimpleData>
+		<SimpleData name="Puskesmas">Ciumbuleuit</SimpleData>
+		<SimpleData name="x">107.603120000000004</SimpleData>
+		<SimpleData name="y">-6.877950000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.60312,-6.87795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">39</SimpleData>
+		<SimpleData name="Puskesmas">Cipaku</SimpleData>
+		<SimpleData name="x">107.600520000000003</SimpleData>
+		<SimpleData name="y">-6.862430000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.60052,-6.86243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">40</SimpleData>
+		<SimpleData name="Puskesmas">Puter</SimpleData>
+		<SimpleData name="x">107.622209999999995</SimpleData>
+		<SimpleData name="y">-6.897960000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.62221,-6.89796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">41</SimpleData>
+		<SimpleData name="Puskesmas">Dago</SimpleData>
+		<SimpleData name="x">107.618700000000004</SimpleData>
+		<SimpleData name="y">-6.875950000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.6187,-6.87595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">42</SimpleData>
+		<SimpleData name="Puskesmas">Cikutra lama</SimpleData>
+		<SimpleData name="x">107.627390000000005</SimpleData>
+		<SimpleData name="y">-6.891320000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.62739,-6.89132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">43</SimpleData>
+		<SimpleData name="Puskesmas">Sekeloa</SimpleData>
+		<SimpleData name="x">107.616810000000001</SimpleData>
+		<SimpleData name="y">-6.889580000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.61681,-6.88958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">44</SimpleData>
+		<SimpleData name="Puskesmas">Salam</SimpleData>
+		<SimpleData name="x">107.630030000000005</SimpleData>
+		<SimpleData name="y">-6.909830000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.63003,-6.90983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">45</SimpleData>
+		<SimpleData name="Puskesmas">Tamansari</SimpleData>
+		<SimpleData name="x">107.607320000000001</SimpleData>
+		<SimpleData name="y">-6.897010000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.60732,-6.89701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">46</SimpleData>
+		<SimpleData name="Puskesmas">Tamblong</SimpleData>
+		<SimpleData name="x">107.612679999999997</SimpleData>
+		<SimpleData name="y">-6.918100000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.61268,-6.9181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">47</SimpleData>
+		<SimpleData name="Puskesmas">Balaikota</SimpleData>
+		<SimpleData name="x">107.610180000000000</SimpleData>
+		<SimpleData name="y">-6.912200000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.61018,-6.9122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">48</SimpleData>
+		<SimpleData name="Puskesmas">Neglasari</SimpleData>
+		<SimpleData name="x">107.640850000000000</SimpleData>
+		<SimpleData name="y">-6.892350000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.64085,-6.89235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">49</SimpleData>
+		<SimpleData name="Puskesmas">Cigadung</SimpleData>
+		<SimpleData name="x">107.623620000000003</SimpleData>
+		<SimpleData name="y">-6.878190000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.62362,-6.87819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">50</SimpleData>
+		<SimpleData name="Puskesmas">Padasuka</SimpleData>
+		<SimpleData name="x">107.653210000000001</SimpleData>
+		<SimpleData name="y">-6.903120000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.65321,-6.90312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">51</SimpleData>
+		<SimpleData name="Puskesmas">Pasirlayung</SimpleData>
+		<SimpleData name="x">107.656819999999996</SimpleData>
+		<SimpleData name="y">-6.893590000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.65682,-6.89359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">52</SimpleData>
+		<SimpleData name="Puskesmas">Babakan Sari</SimpleData>
+		<SimpleData name="x">107.654669999999996</SimpleData>
+		<SimpleData name="y">-6.924210000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.65467,-6.92421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">53</SimpleData>
+		<SimpleData name="Puskesmas">Babakan Surabaya</SimpleData>
+		<SimpleData name="x">107.647610000000000</SimpleData>
+		<SimpleData name="y">-6.917540000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.64761,-6.91754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">54</SimpleData>
+		<SimpleData name="Puskesmas">Ibrahim Aji</SimpleData>
+		<SimpleData name="x">107.643850000000000</SimpleData>
+		<SimpleData name="y">-6.918690000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.64385,-6.91869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">55</SimpleData>
+		<SimpleData name="Puskesmas">Gumuruh</SimpleData>
+		<SimpleData name="x">107.635869999999997</SimpleData>
+		<SimpleData name="y">-6.932240000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.63587,-6.93224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">56</SimpleData>
+		<SimpleData name="Puskesmas">Ahmad Yani</SimpleData>
+		<SimpleData name="x">107.633300000000006</SimpleData>
+		<SimpleData name="y">-6.916140000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.6333,-6.91614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">57</SimpleData>
+		<SimpleData name="Puskesmas">Talagabodas</SimpleData>
+		<SimpleData name="x">107.622699999999995</SimpleData>
+		<SimpleData name="y">-6.928010000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.6227,-6.92801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">58</SimpleData>
+		<SimpleData name="Puskesmas">Suryalaya</SimpleData>
+		<SimpleData name="x">107.622259999999997</SimpleData>
+		<SimpleData name="y">-6.944990000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.62226,-6.94499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">59</SimpleData>
+		<SimpleData name="Puskesmas">Cijagra Baru</SimpleData>
+		<SimpleData name="x">107.626670000000004</SimpleData>
+		<SimpleData name="y">-6.945430000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.62667,-6.94543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">60</SimpleData>
+		<SimpleData name="Puskesmas">Cijagra lama</SimpleData>
+		<SimpleData name="x">107.632769999999994</SimpleData>
+		<SimpleData name="y">-6.947250000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.63277,-6.94725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">61</SimpleData>
+		<SimpleData name="Puskesmas">Pasundan</SimpleData>
+		<SimpleData name="x">107.608879999999999</SimpleData>
+		<SimpleData name="y">-6.927240000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.60888,-6.92724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">62</SimpleData>
+		<SimpleData name="Puskesmas">M. Ramdhan</SimpleData>
+		<SimpleData name="x">107.609210000000004</SimpleData>
+		<SimpleData name="y">-6.937390000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.60921,-6.93739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">63</SimpleData>
+		<SimpleData name="Puskesmas">Pasirluyu</SimpleData>
+		<SimpleData name="x">107.620779999999996</SimpleData>
+		<SimpleData name="y">-6.951200000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.62078,-6.9512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">64</SimpleData>
+		<SimpleData name="Puskesmas">Pagarsih</SimpleData>
+		<SimpleData name="x">107.593080000000000</SimpleData>
+		<SimpleData name="y">-6.922670000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59308,-6.92267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">65</SimpleData>
+		<SimpleData name="Puskesmas">Astanaanyar</SimpleData>
+		<SimpleData name="x">107.602069999999998</SimpleData>
+		<SimpleData name="y">-6.933710000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.60207,-6.93371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">66</SimpleData>
+		<SimpleData name="Puskesmas">Liogenteng</SimpleData>
+		<SimpleData name="x">107.599980000000002</SimpleData>
+		<SimpleData name="y">-6.932420000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59998,-6.93242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">67</SimpleData>
+		<SimpleData name="Puskesmas">Pelindung Hewan</SimpleData>
+		<SimpleData name="x">107.604900000000001</SimpleData>
+		<SimpleData name="y">-6.939510000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.6049,-6.93951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">68</SimpleData>
+		<SimpleData name="Puskesmas">Citarip</SimpleData>
+		<SimpleData name="x">107.588340000000002</SimpleData>
+		<SimpleData name="y">-6.938500000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.58834,-6.9385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">69</SimpleData>
+		<SimpleData name="Puskesmas">Sukapakir</SimpleData>
+		<SimpleData name="x">107.587140000000005</SimpleData>
+		<SimpleData name="y">-6.923210000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.58714,-6.92321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">70</SimpleData>
+		<SimpleData name="Puskesmas">Babakan Tarogong</SimpleData>
+		<SimpleData name="x">107.595160000000007</SimpleData>
+		<SimpleData name="y">-6.924570000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59516,-6.92457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">71</SimpleData>
+		<SimpleData name="Puskesmas">Kopo</SimpleData>
+		<SimpleData name="x">107.589240000000004</SimpleData>
+		<SimpleData name="y">-6.946560000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.58924,-6.94656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">72</SimpleData>
+		<SimpleData name="Puskesmas">Cibaduyut Wetan</SimpleData>
+		<SimpleData name="x">107.595860000000002</SimpleData>
+		<SimpleData name="y">-6.956910000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59586,-6.95691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">73</SimpleData>
+		<SimpleData name="Puskesmas">Cibaduyut Kidul</SimpleData>
+		<SimpleData name="x">107.591160000000002</SimpleData>
+		<SimpleData name="y">-6.959740000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.59116,-6.95974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">74</SimpleData>
+		<SimpleData name="Puskesmas">Caringin</SimpleData>
+		<SimpleData name="x">107.583370000000002</SimpleData>
+		<SimpleData name="y">-6.945720000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.58337,-6.94572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">75</SimpleData>
+		<SimpleData name="Puskesmas">Cibolerang</SimpleData>
+		<SimpleData name="x">107.573149999999998</SimpleData>
+		<SimpleData name="y">-6.950530000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.57315,-6.95053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">76</SimpleData>
+		<SimpleData name="Puskesmas">Sukahaji</SimpleData>
+		<SimpleData name="x">107.582520000000002</SimpleData>
+		<SimpleData name="y">-6.933280000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.58252,-6.93328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">77</SimpleData>
+		<SimpleData name="Puskesmas">Cibuntu</SimpleData>
+		<SimpleData name="x">107.574789999999993</SimpleData>
+		<SimpleData name="y">-6.925320000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.57479,-6.92532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">78</SimpleData>
+		<SimpleData name="Puskesmas">Cijerah</SimpleData>
+		<SimpleData name="x">107.566969999999998</SimpleData>
+		<SimpleData name="y">-6.921990000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.56697,-6.92199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">79</SimpleData>
+		<SimpleData name="Puskesmas">Cigondewah</SimpleData>
+		<SimpleData name="x">107.563630000000003</SimpleData>
+		<SimpleData name="y">-6.933980000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.56363,-6.93398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Puskemas_point">
+		<SimpleData name="No">80</SimpleData>
+		<SimpleData name="Puskesmas">Griya Antapani</SimpleData>
+		<SimpleData name="x">107.660439999999994</SimpleData>
+		<SimpleData name="y">-6.916770000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.66044,-6.91677</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
