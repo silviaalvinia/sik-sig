@@ -1,13 +1,4 @@
-{
-	"description": {
-		"kode_pkm": "P3273230201",
-		"nama_pkm": "DAGO",
-		"periode": "Juli 2018",
-		"alamat_pkm": "Jl. Dago, Kec. Coblong",
-		"kab_kot": "Kota Bandung",
-		"provinsi": "Jawa Barat"
-	},
-	"penyakit": [{
+[{
 			"indeks": 1,
 			"icd_10": "I10",
 			"icd_10_desc": "Hipertensi primer/essensial",
