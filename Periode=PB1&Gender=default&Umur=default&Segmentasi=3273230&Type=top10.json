@@ -1,62 +1,32 @@
 [
-	{
-			"indeks": 1,
-			"icd_10": "I10",
-			"icd_10_desc": "Hipertensi primer/essensial",
-			"jumlah": ""
-		},
-		{
-			"indeks": 2,
-			"icd_10": "M79.1",
-			"icd_10_desc": "Myalgia",
-			"jumlah": 144
-		},
-		{
-			"indeks": 3,
-			"icd_10": "J06",
-			"icd_10_desc": "Acute upper respiratory infections of multiple and unspecifi",
-			"jumlah": 143
-		},
-		{
-			"indeks": 4,
-			"icd_10": "K30",
-			"icd_10_desc": "Dispepsia",
-			"jumlah": 142
-		},
-		{
-			"indeks": 5,
-			"icd_10": "R05",
-			"icd_10_desc": "Batuk",
-			"jumlah": 101
-		},
-		{
-			"indeks": 6,
-			"icd_10": "J06.9",
-			"icd_10_desc": "Infeksi saluran pernapasan akut atas (ISPA), tidak spesifik",
-			"jumlah": 94
-		},
-		{
-			"indeks": 7,
-			"icd_10": "K04.1",
-			"icd_10_desc": "Necrosis of pulp",
-			"jumlah": 92
-		},
-		{
-			"indeks": 8,
-			"icd_10": "A09",
-			"icd_10_desc": "Diarrhoea and gastroenteritis of presumed infectious origin",
-			"jumlah": 81
-		},
-		{
-			"indeks": 9,
-			"icd_10": "J00",
-			"icd_10_desc": "Nasofaringitis akut",
-			"jumlah": 70
-		},
-		{
-			"indeks": 10,
-			"icd_10": "R51",
-			"icd_10_desc": "Sakit kepala",
-			"jumlah": 52
-	}
+ {
+   "indeks": 1,
+   "icd_10": "I10",
+   "icd_10_desc": "Hipertensi primer/essensial",
+   "jumlah": null
+ },
+ {
+   "indeks": 2,
+   "icd_10": "M79.1",
+   "icd_10_desc": "Myalgia",
+   "jumlah": 144
+ },
+ {
+   "indeks": 3,
+   "icd_10": "J06",
+   "icd_10_desc": "Acute upper respiratory infections of multiple and unspecifi",
+   "jumlah": 143
+ },
+ {
+   "indeks": 4,
+   "icd_10": "K30",
+   "icd_10_desc": "Dispepsia",
+   "jumlah": null
+ },
+ {
+   "indeks": 5,
+   "icd_10": "R05",
+   "icd_10_desc": "Batuk",
+   "jumlah": 101
+ }
 ]
