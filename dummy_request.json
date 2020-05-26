@@ -1,0 +1,95 @@
+[{
+	"segmentasi": [{
+		"indeks": 1,
+		"kode": "P3273250201",
+		"nama": "LEDENG",
+		"jumlah": 500
+	}, {
+		"indeks": 2,
+		"kode": " P3273190202 ",
+		"nama": " SUKARAJA ",
+		"jumlah": 499
+	}, {
+		"indeks": 3,
+		"kode": " P3273190202 ",
+		"nama": " SUKARAJA ",
+		"jumlah": 400
+	}, {
+		"indeks": 4,
+		"kode": " P3273190202 ",
+		"nama": " SUKARAJA ",
+		"jumlah": 300
+	}, {
+		"indeks": 5,
+		"kode": " P3273190202 ",
+		"nama": " SUKARAJA ",
+		"jumlah": 200
+	}]
+}, {
+	"periode": [{
+		"tanggal": "2019-07-01",
+		"jumlah": 1000
+	}, {
+		"tanggal": "2019-06-01",
+		"jumlah": 2000
+	}, {
+		"tanggal": "2019-05-01",
+		"jumlah": 1500
+	}, {
+		"tanggal": "2019-04-01",
+		"jumlah": 2000
+	}, {
+		"tanggal": "2019-03-01",
+		"jumlah": 4000
+	}, {
+		"tanggal": "2019-02-01",
+		"jumlah": 2000
+	}]
+}, {
+	"gender": [{
+		"nama": "perempuan",
+		"jumlah": 1000
+	}, {
+		"nama": "laki-laki",
+		"jumlah": 600
+	}]
+}, {
+	"umur": [{
+		"indeks": 1,
+		"kode": "U1",
+		"nama": "0-7 hari",
+		"jumlah": 500
+	}, {
+		"indeks": 2,
+		"kode": " U12 ",
+		"nama": "> 70 tahun",
+		"jumlah": 499
+	}]
+}, {
+	"penyakit": [{
+		"indeks": 1,
+		"kode": "XX",
+		"nama": "External causes of morbidity and mortality",
+		"jumlah": 1000
+	}, {
+		"indeks": 2,
+		"kode": " A00 ",
+		"nama": "Cholera1 ",
+		"jumlah": 9
+	}, {
+		"indeks": 3,
+		"kode": " A00 ",
+		"nama": "Cholera2 ",
+		"jumlah": 500
+	}, {
+		"indeks": 4,
+		"kode": " A00 ",
+		"nama": "Cholera3 ",
+		"jumlah": 1000
+	}, {
+		"indeks": 5,
+		"kode": " A00 ",
+		"nama": "Cholera4 ",
+		"jumlah": 100
+	}]
+}]
